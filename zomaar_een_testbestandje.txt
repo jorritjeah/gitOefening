@@ -1,1 +1,2 @@
 Dit is zomaar een testbestandje, die ik nu heb aangepast.
+Dit is een nieuwe regel aan het testbestand.
